@@ -1,0 +1,31 @@
+{
+  "name": "register-and-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davicolzer/register-and-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davicolzer/register-and-search/issues"
+  },
+  "homepage": "https://github.com/davicolzer/register-and-search#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "tedious": "^11.0.5",
+    "tedious-promises": "^0.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
