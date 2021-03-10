@@ -1,12 +1,10 @@
 # register-and-search
 
-## Install
-
+## Instalar pacotes
 npm install
 
-## Run Front-end
+## Executar
 npm run dev
 
-## Run Back-end
-npm run devserver
-
+## Acessar pagina
+http://localhost:8000/
