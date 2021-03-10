@@ -6,5 +6,5 @@ npm install
 ## Executar
 npm run dev
 
-## Acessar pagina
+## Acessar pagina para iniciar
 http://localhost:8000/
